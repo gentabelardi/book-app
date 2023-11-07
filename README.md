@@ -1,5 +1,3 @@
-Certainly! Here's a README.md template for a REST API CRUD Book Store project using Golang, Mux, GORM, and PostgreSQL:
-
 # REST API CRUD Book Store
 
 This is a sample project for a REST API that allows you to perform CRUD (Create, Read, Update, Delete) operations on book data using the Golang programming language, the Mux router, GORM ORM, and the PostgreSQL database.
